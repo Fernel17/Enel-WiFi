@@ -1,0 +1,2 @@
+# bogg
+membuat blog
